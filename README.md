@@ -1,4 +1,4 @@
-<a href="https://weble.studio"><img src="hello-v3.gif" alt="HELLO, spelled out of 200 tiny browser windows, one for each shipped project" width="100%"></a>
+<a href="https://weble.studio"><img src="hello-v4.gif" alt="HELLO, spelled out of 200 tiny browser windows, one for each shipped project" width="100%"></a>
 
 ### I'm Bleart
 
